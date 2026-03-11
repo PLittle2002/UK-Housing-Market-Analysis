@@ -25,7 +25,8 @@ Greater London and the rest of the UK housing market.
 - Python (data preparation)
 
 ## Database
-UK Property Price Dataset
-~28 million property transactions
-1995–2023
+- UK Property Price Dataset
+- ~28 million property transactions
+- 1995–2023
+
 **Link**: https://www.kaggle.com/datasets/willianoliveiragibin/uk-property-price-data-1995-2023-04
