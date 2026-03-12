@@ -18,6 +18,7 @@ Greater London and the rest of the UK housing market.
   with regional markets narrowing the price growth gap.
 
 ## Dashboard
+<img width="1241" height="728" alt="image" src="https://github.com/user-attachments/assets/27dca963-cc19-4851-ab54-73d8f61b2c46" />
 
 ## Tools Used
 - SQL (PostgreSQL)
