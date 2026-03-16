@@ -27,6 +27,13 @@ Greater London and the rest of the UK housing market.
 - Power BI
 - Python (data preparation)
 
+## Pipeline
+The dataset used for the Power BI dashboard is generated using a Python
+script that queries the PostgreSQL database and exports the aggregated
+data as a CSV file.
+
+**Script location**: scripts/export_data.py
+
 ## Database
 - UK Property Price Dataset
 - ~28 million property transactions
