@@ -6,6 +6,8 @@ find long-term trends in the housing market.
 The analysis focuses on structural differences between
 Greater London and the rest of the UK housing market.
 
+*The SQL scripts used for the analysis are available in uk_housing_analysis.sql*.
+
 
 ## Key Findings
 - Between 1995–2016, Greater London prices grew at 9.8% annually,
