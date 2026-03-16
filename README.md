@@ -39,3 +39,7 @@ data as a CSV file.
 - 1995–2023
 
 **Link**: https://www.kaggle.com/datasets/willianoliveiragibin/uk-property-price-data-1995-2023-04
+
+## Running the Script
+Update the PostgreSQL credentials in scripts/export_data.py
+before running the script locally.
