@@ -29,7 +29,7 @@ ORDER BY year, region_group;
 df = pd.read_sql(query, conn)
 
 # Export dataset used for Power BI
-df.to_csv("london_vs_rest_prices.csv", index=False)
+df.to_csv("data/london_vs_rest_prices.csv", index=False)
 
 conn.close()
 
