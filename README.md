@@ -6,9 +6,6 @@ find long-term trends in the housing market.
 The analysis focuses on structural differences between
 Greater London and the rest of the UK housing market.
 
-*The SQL scripts used for the analysis are available in uk_housing_analysis.sql*.
-
-
 ## Key Findings
 - Between 1995–2016, Greater London prices grew at 9.8% annually,
   significantly outperforming the rest of the UK (7.0%).
@@ -26,6 +23,8 @@ Greater London and the rest of the UK housing market.
 - SQL (PostgreSQL)
 - Power BI
 - Python (data preparation)
+
+*The SQL scripts used for the analysis are available in uk_housing_analysis.sql*.
 
 ## Pipeline
 The dataset used for the Power BI dashboard is generated using a Python
